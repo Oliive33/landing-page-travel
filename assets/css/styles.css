@@ -205,6 +205,7 @@ img {
   display: flex;
   align-items: flex-end;
   padding-bottom: 0.75rem;
+  border: none;
 }
 
 .islands__video-content-phuquoc,
